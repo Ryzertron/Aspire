@@ -1,3 +1,4 @@
+//This programs prints N lines of the pascal's triangle for any natural number N.
 #include <stdio.h>
 int count(int n, int r);
 int main()
